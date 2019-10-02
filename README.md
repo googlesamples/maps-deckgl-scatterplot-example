@@ -2,7 +2,7 @@
 
 This repo contains a simple example app that shows how to use the [Google Maps Platform JS API](https://developers.google.com/maps/documentation/javascript/) with the [deck.gl](http://deck.gl) Scatterplot layer.
 
-<p align="center"><img src="https://github.com/googlemaps/deck.gl-demos/raw/master/img/demoapp.png" /></p>
+<p align="center"><img src="https://github.com/googlesamples/maps-deckgl-scatterplot-example/blob/master/scatterplot.png?raw=true" /></p>
 
 ## Requirements
 
