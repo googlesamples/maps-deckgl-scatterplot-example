@@ -12,7 +12,7 @@ For more information, see [Get Started with Google Maps Platform](https://develo
 
 ## Running the app
 
-To learn how to build and run this example app, check out our [blog post]() that has a complete walkthrough.
+To learn how to build and run this example app, check out our [blog post](https://goo.gle/blog-deckgl-scatterplot) that has a complete walkthrough.
 
 
 ## Documentation & resources
